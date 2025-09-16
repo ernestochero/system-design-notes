@@ -1,0 +1,27 @@
+# OS
+.DS_Store
+
+# Node / docs tooling
+node_modules/
+site/
+dist/
+
+# Python
+__pycache__/
+*.pyc
+
+# Editor
+.idea/
+.vscode/
+
+# Metals
+.metals/
+.bloop/
+.coursier/
+.history/
+.worksheet/
+target/
+
+.bsp/
+.scala-build/
+.cache/

@@ -164,13 +164,13 @@ N ≈ λ × W
 
 ```mermaid
 flowchart LR
-    U[Users (10k RPS)] --> LB[Load Balancer]
+    U[Users - 10k RPS] --> LB[Load Balancer]
 
     LB --> S1[App Server 1]
     LB --> S2[App Server 2]
     LB --> S3[App Server 3]
 
-    S1 --> C[Cache (Redis/CDN)]
+    S1 --> C[Cache: Redis/CDN]
     S2 --> C
     S3 --> C
 

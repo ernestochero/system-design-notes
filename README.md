@@ -8,6 +8,7 @@ A structured, 8-week journey to master System Design with hands‑on designs, no
 - `docs/snippets/` – reusable code/queries
 - `templates/` – design & interview templates
 - `docs/resources/` – curated links & summaries
+- `examples/scala/` – Scala POCs
 
 ## Weekly Flow
 1. Read core concepts.

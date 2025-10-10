@@ -91,10 +91,10 @@ Disney’s global API Gateway enforces 1000 RPS per key, while Envoy sidecars lo
 
 ---
 
-## 🌍 Real-World Examples
+## Real-World Examples
 
-- **Disney+ Identity System:** OAuth2 + JWT-based user access.  
-- **SWAN Internal APIs:** mTLS between microservices using Envoy.  
+- **Identity System:** OAuth2 + JWT-based user access.  
+- **Internal APIs:** mTLS between microservices using Envoy.  
 - **AWS Cloud Security:** Encryption at rest (S3, RDS) and in transit (TLS).  
 - **DoS Protection:** Multi-layer rate limiting and WAF rules.
 
